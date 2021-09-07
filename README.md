@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/youngung/lecture_materials/HEAD)
+
+
 ## Python / Jupyter / NumPy 등을 활용한 수업 자료
 
 ## Basics in Python
